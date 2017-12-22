@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,600');
+
+body {
+    background: #262626;
+    color:#fff;
+    font-family: 'Montserrat';
+    margin:0;
+}
+
+#profile-container{
+    width:100%;
+    height: 20%;
+}
+.profile{
+    float:right;
+    
+}
+#profile_name{
+    padding:20px;
+}
+.row
+{
+    white-space: nowrap;
+}
+.row >div{
+    display: inline-block;
+    
+    padding:10px;
+}
